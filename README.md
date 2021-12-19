@@ -16,7 +16,7 @@
   https://agile-river-51218.herokuapp.com/
 
   ## Usage
-  Screen Shot 2021-12-19 at 1.22.00 PM
+  <img width="1439" alt="Screen Shot 2021-12-19 at 1 22 00 PM" src="https://user-images.githubusercontent.com/87950314/146686627-305a8c35-2fe8-4bcb-b7d9-  b0a4d2e5c2d3.png">
 
   ## License
   Licensed under the ISC license.(https://opensource.org/licenses/ISC)
